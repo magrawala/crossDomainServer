@@ -3,11 +3,15 @@
 A server for web APIs that don't support cross domain access. 
 
 ## Python Version
-The python version of the server is based on the server in https://github.com/plamere/SetListener and uses cherrypy. 
+The python version of the server is based on the server in
+https://github.com/plamere/SetListener and uses cherrypy.
 
-To run ...
+### Usage
+'python server.py '
+
 
 ##Node version
 The node version requires http, url and httpdispatcher.
 
-To run ...
+### Usage
+'node server.js '
