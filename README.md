@@ -1,6 +1,8 @@
 # Cross Domain Server
 
-A server for web APIs that don't support cross domain access. 
+A server for web APIs that don't support cross domain access. Provides
+two different versions of the server code (python and server side
+javascript via node.js).
 
 ## Python Version
 The python version of the server is based on the server in
